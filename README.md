@@ -71,26 +71,6 @@ flowchart LR
 
 <br>
 
-## 📈 Vendo a diferença
-
-Cada modelo tem a mesma cor em todos os gráficos e na tabela acima (🔵 🟠 🟢 🟣).
-
-<p align="center">
-  <img src="assets/01-dispersao.png" alt="Quatro gráficos de dispersão de previsto contra observado. O PRED forma uma nuvem estreita em volta da linha de identidade. O PRED_2 fica exatamente sobre a linha. O PRED_3 aparece espalhado em faixas distantes da linha. O PRED_4 forma uma nuvem paralela à linha, deslocada para baixo." width="92%">
-</p>
-
-<p align="center">
-  <img src="assets/02-distribuicao-erro.png" alt="Distribuição do erro de cada modelo. PRED centrado em zero e estreito. PRED_2 concentrado em um único ponto sobre zero. PRED_3 espalhado em cinco valores entre menos 2 e mais 2. PRED_4 centrado em torno de menos 3." width="92%">
-</p>
-
-<details>
-<summary><b>📅 Ver as séries temporais (zoom de 60 dias)</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="assets/03-serie-temporal.png" alt="Série temporal de 60 dias comparando o valor observado com a previsão de cada modelo." width="92%">
-</p>
 
 </details>
 
